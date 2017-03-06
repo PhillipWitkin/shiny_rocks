@@ -10,6 +10,8 @@ public class HeyNow {
 		System.out.println(num2);
 		// and here
 		System.out.println(num2/num);
+		// and again
+		System.out.println();
 		
 	}
 
