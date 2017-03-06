@@ -8,7 +8,9 @@ public class HeyNow {
 		System.out.println(num);
 		int num2 = 22;
 		System.out.println(num2);
-		System.out.println();
+		// and here
+		System.out.println(num2/num);
+		
 	}
 
 }
